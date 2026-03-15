@@ -30,6 +30,4 @@ Les scripts Python suivants ont été développés pour automatiser les simulati
     - `projet DDOS.docx` : Document principal du projet.
     - `présentation DDOS.pptx` : Support de présentation du laboratoire.
     - `Notes.docx` : Notes complémentaires sur les travaux réalisés.
-# DDOS_Lab
-# DDOS_Lab
-# DDOS_Lab
+
